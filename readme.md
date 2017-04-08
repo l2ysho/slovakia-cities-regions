@@ -50,6 +50,6 @@ var regions = require('slovakia-cities-regions').regions() // list of regions(na
 }
 ```
 
-## licence
----
+## license
+
 The MIT License
