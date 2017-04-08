@@ -1,0 +1,397 @@
+{
+    "Bánovce nad Bebravou": {
+        "name": "Bánovce nad Bebravou",
+        "longName": "Okres Bánovce nad Bebravou",
+        "abr": "BN"
+    },
+    "Banská Bystrica": {
+        "name": "Banská Bystrica",
+        "longName": "Okres Banská Bystrica",
+        "abr": "BB"
+    },
+    "Banská Štiavnica": {
+        "name": "Banská Štiavnica",
+        "longName": "Okres Banská Štiavnica",
+        "abr": "BS"
+    },
+    "Bardejov": {
+        "name": "Bardejov",
+        "longName": "Okres Bardejov",
+        "abr": "BJ"
+    },
+    "Bratislava I": {
+        "name": "Bratislava I",
+        "longName": "Okres Bratislava I",
+        "abr": "BA, BL"
+    },
+    "Bratislava II": {
+        "name": "Bratislava II",
+        "longName": "Okres Bratislava II",
+        "abr": "BA, BL"
+    },
+    "Bratislava III": {
+        "name": "Bratislava III",
+        "longName": "Okres Bratislava III",
+        "abr": "BA, BL"
+    },
+    "Bratislava IV": {
+        "name": "Bratislava IV",
+        "longName": "Okres Bratislava IV",
+        "abr": "BA, BL"
+    },
+    "Bratislava V": {
+        "name": "Bratislava V",
+        "longName": "Okres Bratislava V",
+        "abr": "BA, BL"
+    },
+    "Brezno": {
+        "name": "Brezno",
+        "longName": "Okres Brezno",
+        "abr": "BR"
+    },
+    "Bytča": {
+        "name": "Bytča",
+        "longName": "Okres Bytča",
+        "abr": "BY"
+    },
+    "Čadca": {
+        "name": "Čadca",
+        "longName": "Okres Čadca",
+        "abr": "CA"
+    },
+    "Detva": {
+        "name": "Detva",
+        "longName": "Okres Detva",
+        "abr": "DT"
+    },
+    "Dolný Kubín": {
+        "name": "Dolný Kubín",
+        "longName": "Okres Dolný Kubín",
+        "abr": "DK"
+    },
+    "Dunajská Streda": {
+        "name": "Dunajská Streda",
+        "longName": "Okres Dunajská Streda",
+        "abr": "DS"
+    },
+    "Galanta": {
+        "name": "Galanta",
+        "longName": "Okres Galanta",
+        "abr": "GA"
+    },
+    "Gelnica": {
+        "name": "Gelnica",
+        "longName": "Okres Gelnica",
+        "abr": "GL"
+    },
+    "Hlohovec": {
+        "name": "Hlohovec",
+        "longName": "Okres Hlohovec",
+        "abr": "HC"
+    },
+    "Humenné": {
+        "name": "Humenné",
+        "longName": "Okres Humenné",
+        "abr": "HE"
+    },
+    "Ilava": {
+        "name": "Ilava",
+        "longName": "Okres Ilava",
+        "abr": "IL"
+    },
+    "Kežmarok": {
+        "name": "Kežmarok",
+        "longName": "Okres Kežmarok",
+        "abr": "KK"
+    },
+    "Komárno": {
+        "name": "Komárno",
+        "longName": "Okres Komárno",
+        "abr": "KN"
+    },
+    "Košice I": {
+        "name": "Košice I",
+        "longName": "Okres Košice I",
+        "abr": "KE"
+    },
+    "Košice II": {
+        "name": "Košice II",
+        "longName": "Okres Košice II",
+        "abr": "KE"
+    },
+    "Košice III": {
+        "name": "Košice III",
+        "longName": "Okres Košice III",
+        "abr": "KE"
+    },
+    "Košice IV": {
+        "name": "Košice IV",
+        "longName": "Okres Košice IV",
+        "abr": "KE"
+    },
+    "Košice-okolie": {
+        "name": "Košice-okolie",
+        "longName": "Okres Košice-okolie",
+        "abr": "KS"
+    },
+    "Krupina": {
+        "name": "Krupina",
+        "longName": "Okres Krupina",
+        "abr": "KA"
+    },
+    "Kysucké Nové Mesto": {
+        "name": "Kysucké Nové Mesto",
+        "longName": "Okres Kysucké Nové Mesto",
+        "abr": "KM"
+    },
+    "Levice": {
+        "name": "Levice",
+        "longName": "Okres Levice",
+        "abr": "LV"
+    },
+    "Levoča": {
+        "name": "Levoča",
+        "longName": "Okres Levoča",
+        "abr": "LE"
+    },
+    "Liptovský Mikuláš": {
+        "name": "Liptovský Mikuláš",
+        "longName": "Okres Liptovský Mikuláš",
+        "abr": "LM"
+    },
+    "Lučenec": {
+        "name": "Lučenec",
+        "longName": "Okres Lučenec",
+        "abr": "LC"
+    },
+    "Malacky": {
+        "name": "Malacky",
+        "longName": "Okres Malacky",
+        "abr": "MA"
+    },
+    "Martin": {
+        "name": "Martin",
+        "longName": "Okres Martin",
+        "abr": "MT"
+    },
+    "Medzilaborce": {
+        "name": "Medzilaborce",
+        "longName": "Okres Medzilaborce",
+        "abr": "ML"
+    },
+    "Michalovce": {
+        "name": "Michalovce",
+        "longName": "Okres Michalovce",
+        "abr": "MI"
+    },
+    "Myjava": {
+        "name": "Myjava",
+        "longName": "Okres Myjava",
+        "abr": "MY"
+    },
+    "Námestovo": {
+        "name": "Námestovo",
+        "longName": "Okres Námestovo",
+        "abr": "NO"
+    },
+    "Nitra": {
+        "name": "Nitra",
+        "longName": "Okres Nitra",
+        "abr": "NR"
+    },
+    "Nové Mesto nad Váhom": {
+        "name": "Nové Mesto nad Váhom",
+        "longName": "Okres Nové Mesto nad Váhom",
+        "abr": "NM"
+    },
+    "Nové Zámky": {
+        "name": "Nové Zámky",
+        "longName": "Okres Nové Zámky",
+        "abr": "NZ"
+    },
+    "Partizánske": {
+        "name": "Partizánske",
+        "longName": "Okres Partizánske",
+        "abr": "PE"
+    },
+    "Pezinok": {
+        "name": "Pezinok",
+        "longName": "Okres Pezinok",
+        "abr": "PK"
+    },
+    "Piešťany": {
+        "name": "Piešťany",
+        "longName": "Okres Piešťany",
+        "abr": "PN"
+    },
+    "Poltár": {
+        "name": "Poltár",
+        "longName": "Okres Poltár",
+        "abr": "PT"
+    },
+    "Poprad": {
+        "name": "Poprad",
+        "longName": "Okres Poprad",
+        "abr": "PP"
+    },
+    "Považská Bystrica": {
+        "name": "Považská Bystrica",
+        "longName": "Okres Považská Bystrica",
+        "abr": "PB"
+    },
+    "Prešov": {
+        "name": "Prešov",
+        "longName": "Okres Prešov",
+        "abr": "PO"
+    },
+    "Prievidza": {
+        "name": "Prievidza",
+        "longName": "Okres Prievidza",
+        "abr": "PD"
+    },
+    "Púchov": {
+        "name": "Púchov",
+        "longName": "Okres Púchov",
+        "abr": "PU"
+    },
+    "Revúca": {
+        "name": "Revúca",
+        "longName": "Okres Revúca",
+        "abr": "RA"
+    },
+    "Rimavská Sobota": {
+        "name": "Rimavská Sobota",
+        "longName": "Okres Rimavská Sobota",
+        "abr": "RS"
+    },
+    "Rožňava": {
+        "name": "Rožňava",
+        "longName": "Okres Rožňava",
+        "abr": "RV"
+    },
+    "Ružomberok": {
+        "name": "Ružomberok",
+        "longName": "Okres Ružomberok",
+        "abr": "RK"
+    },
+    "Sabinov": {
+        "name": "Sabinov",
+        "longName": "Okres Sabinov",
+        "abr": "SB"
+    },
+    "Senec": {
+        "name": "Senec",
+        "longName": "Okres Senec",
+        "abr": "SC"
+    },
+    "Senica": {
+        "name": "Senica",
+        "longName": "Okres Senica",
+        "abr": "SE"
+    },
+    "Skalica": {
+        "name": "Skalica",
+        "longName": "Okres Skalica",
+        "abr": "SI"
+    },
+    "Snina": {
+        "name": "Snina",
+        "longName": "Okres Snina",
+        "abr": "SV"
+    },
+    "Sobrance": {
+        "name": "Sobrance",
+        "longName": "Okres Sobrance",
+        "abr": "SO"
+    },
+    "Spišská Nová Ves": {
+        "name": "Spišská Nová Ves",
+        "longName": "Okres Spišská Nová Ves",
+        "abr": "SN"
+    },
+    "Stará Ľubovňa": {
+        "name": "Stará Ľubovňa",
+        "longName": "Okres Stará Ľubovňa",
+        "abr": "SL"
+    },
+    "Stropkov": {
+        "name": "Stropkov",
+        "longName": "Okres Stropkov",
+        "abr": "SP"
+    },
+    "Svidník": {
+        "name": "Svidník",
+        "longName": "Okres Svidník",
+        "abr": "SK"
+    },
+    "Šaľa": {
+        "name": "Šaľa",
+        "longName": "Okres Šaľa",
+        "abr": "SA"
+    },
+    "Topoľčany": {
+        "name": "Topoľčany",
+        "longName": "Okres Topoľčany",
+        "abr": "TO"
+    },
+    "Trebišov": {
+        "name": "Trebišov",
+        "longName": "Okres Trebišov",
+        "abr": "TV"
+    },
+    "Trenčín": {
+        "name": "Trenčín",
+        "longName": "Okres Trenčín",
+        "abr": "TN"
+    },
+    "Trnava": {
+        "name": "Trnava",
+        "longName": "Okres Trnava",
+        "abr": "TT"
+    },
+    "Turčianske Teplice": {
+        "name": "Turčianske Teplice",
+        "longName": "Okres Turčianske Teplice",
+        "abr": "TR"
+    },
+    "Tvrdošín": {
+        "name": "Tvrdošín",
+        "longName": "Okres Tvrdošín",
+        "abr": "TS"
+    },
+    "Veľký Krtíš": {
+        "name": "Veľký Krtíš",
+        "longName": "Okres Veľký Krtíš",
+        "abr": "VK"
+    },
+    "Vranov nad Topľou": {
+        "name": "Vranov nad Topľou",
+        "longName": "Okres Vranov nad Topľou",
+        "abr": "VT"
+    },
+    "Zlaté Moravce": {
+        "name": "Zlaté Moravce",
+        "longName": "Okres Zlaté Moravce",
+        "abr": "ZM"
+    },
+    "Zvolen": {
+        "name": "Zvolen",
+        "longName": "Okres Zvolen",
+        "abr": "ZV"
+    },
+    "Žarnovica": {
+        "name": "Žarnovica",
+        "longName": "Okres Žarnovica",
+        "abr": "ZC"
+    },
+    "Žiar nad Hronom": {
+        "name": "Žiar nad Hronom",
+        "longName": "Okres Žiar nad Hronom",
+        "abr": "ZH"
+    },
+    "Žilina": {
+        "name": "Žilina",
+        "longName": "Okres Žilina",
+        "abr": "ZA"
+    }
+}

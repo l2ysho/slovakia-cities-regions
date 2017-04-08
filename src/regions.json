@@ -1,0 +1,34 @@
+{
+    "Banskobystrický kraj": {
+        "name": "Banskobystrický kraj",
+        "abr": "BC"
+    },
+    "Bratislavský kraj": {
+        "name": "Bratislavský kraj",
+        "abr": "BL"
+    },
+    "Košický kraj": {
+        "name": "Košický kraj",
+        "abr": "KI"
+    },
+    "Nitriansky kraj": {
+        "name": "Nitriansky kraj",
+        "abr": "NI"
+    },
+    "Prešovský kraj": {
+        "name": "Prešovský kraj",
+        "abr": "PV"
+    },
+    "Trenčiansky kraj": {
+        "name": "Trenčiansky kraj",
+        "abr": "TC"
+    },
+    "Trnavský kraj": {
+        "name": "Trnavský kraj",
+        "abr": "TA"
+    },
+    "Žilinský kraj": {
+        "name": "Žilinský kraj",
+        "abr": "ZI"
+    }
+}

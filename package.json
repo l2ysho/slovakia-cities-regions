@@ -1,0 +1,25 @@
+{
+  "name": "slovakia-cities-regions",
+  "version": "1.0.4",
+  "description": "Slovakia cities, districts and regions in JSON format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "slovakia",
+    "cities",
+    "district",
+    "regions"
+  ],
+  "author": "Richard Solar",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/l2ysho/slovakia-cities-regions.git"
+  },
+  "bugs": {
+    "url": "https://github.com/l2ysho/slovakia-cities-regions/issues"
+  },
+  "homepage": "https://github.com/l2ysho/slovakia-cities-regions#readme"
+}
