@@ -16,6 +16,7 @@ var regions = require('slovakia-cities-regions').regions() // list of regions(na
 ```
 
 ## data example
+### cities
 
 ```json
 {
@@ -50,6 +51,84 @@ var regions = require('slovakia-cities-regions').regions() // list of regions(na
 }
 ```
 
+### citiesList
+```json
+[
+    {
+        "name": "Vybúchanec",
+        "zip": "071 01",
+        "abr": "MI",
+        "district": "Michalovce",
+        "region": "Košický kraj"
+    }, {
+        "name": "Výčapky",
+        "zip": "951 25",
+        "abr": "NR",
+        "district": "Nitra",
+        "region": "Nitriansky kraj"
+    }, {
+        "name": "Výčapy - Opatovce",
+        "zip": "951 44",
+        "abr": "NR",
+        "district": "Nitra",
+        "region": "Nitriansky kraj"
+    }, {
+        "name": "Východná",
+        "zip": "032 32",
+        "abr": "LM",
+        "district": "Liptovský Mikuláš",
+        "region": "Žilinský kraj"
+    }
+]
+```
+
+### districts
+```json
+{
+    "Zvolen": {
+        "name": "Zvolen",
+        "longName": "Okres Zvolen",
+        "abr": "ZV"
+    },
+    "Žarnovica": {
+        "name": "Žarnovica",
+        "longName": "Okres Žarnovica",
+        "abr": "ZC"
+    },
+    "Žiar nad Hronom": {
+        "name": "Žiar nad Hronom",
+        "longName": "Okres Žiar nad Hronom",
+        "abr": "ZH"
+    },
+    "Žilina": {
+        "name": "Žilina",
+        "longName": "Okres Žilina",
+        "abr": "ZA"
+    }
+}    
+```
+
+### regions
+```json
+{
+    "Prešovský kraj": {
+        "name": "Prešovský kraj",
+        "abr": "PV"
+    },
+    "Trenčiansky kraj": {
+        "name": "Trenčiansky kraj",
+        "abr": "TC"
+    },
+    "Trnavský kraj": {
+        "name": "Trnavský kraj",
+        "abr": "TA"
+    },
+    "Žilinský kraj": {
+        "name": "Žilinský kraj",
+        "abr": "ZI"
+    }
+}
+```
 ## license
 
 The MIT License
