@@ -7,7 +7,8 @@ var regions = require('./').regions();
 
 /*simple check*/
 
-if (typeof cities === 'object' && typeof districts === 'object' && typeof regions === 'object' && typeof citiesList === 'object' ) {
+if (typeof cities === 'object' && typeof districts === 'object' &&
+typeof regions === 'object' && typeof citiesList === 'object' ) {
     return console.log('success');
 }
 else {

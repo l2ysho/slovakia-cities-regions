@@ -12,6 +12,14 @@ module.exports.districts = function() {
     return require('./src/districts.json');
 }
 
+module.exports.districtsList = function() {
+    return require('./src/districtsList.json');
+}
+
 module.exports.regions = function() {
     return require('./src/regions.json');
+}
+
+module.exports.regionsList = function() {
+    return require('./src/regionsList.json');
 }

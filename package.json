@@ -1,6 +1,6 @@
 {
   "name": "slovakia-cities-regions",
-  "version": "1.1.1",
+  "version": "1.1.5",
   "description": "Slovakia cities, districts and regions in JSON format.",
   "main": "index.js",
   "scripts": {
