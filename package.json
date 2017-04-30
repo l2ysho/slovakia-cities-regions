@@ -4,7 +4,7 @@
   "description": "Slovakia cities, districts and regions in JSON format.",
   "main": "index.js",
   "scripts": {
-    "test": "node test.js"
+    "test": "mocha"
   },
   "keywords": [
     "slovakia",
