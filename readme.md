@@ -9,9 +9,9 @@ List of all cities(villages), all districts and all regions in Slovakia.
 ## basic usage
 
 ```javascript
-var cities = require('slovakia-cities-regions').cities();  //list of cities(name, zip, abreviation, district, region)
-var districts = require('slovakia-cities-regions').districts() // list of districts(name, longname, abreviation)
-var regions = require('slovakia-cities-regions').regions() // list of regions(name, abreviation)
+var cities = require('slovakia-cities-regions').cities();  //list of cities(name, zip, abbreviation, district, region)
+var districts = require('slovakia-cities-regions').districts() // list of districts(name, longname, abbreviation)
+var regions = require('slovakia-cities-regions').regions() // list of regions(name, abbreviation)
 
 ```
 
